@@ -11,5 +11,9 @@ python 2.7
 # Run GUI
 pyhton sshvpngui.py
 
+# Run via EXE
+
+sshvpngui.exe
+
 Run cli 
 https://github.com/msrouter/sshvpn
