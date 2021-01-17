@@ -16,4 +16,4 @@ pyhton sshvpngui.py
 sshvpngui.exe
 
 Run cli 
-https://github.com/msrouter/sshvpn
+https://github.com/greenrouter/sshvpn
